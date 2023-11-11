@@ -1,1 +1,1 @@
-# vue-gallery
+# vue-photo-gallery
